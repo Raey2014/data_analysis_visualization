@@ -1,1 +1,3 @@
-This project is merely for practice on data analysis and visualization. It uses Ipython notebook, Pandas and seaborn. The data is from NYC public database.
+This project is merely for practice on data analysis and visualization using the NYPD data. In this analysis, I tried to study patterns 
+of crime using time and geographical coordinates. Based on this pattern, we can predict the likely place and time where crime can occur 
+and NYPD can take necessary measures. The notebook uses Pandas and seaborn. 
